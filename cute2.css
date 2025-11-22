@@ -1,0 +1,43 @@
+/* Fondo cute */
+body {
+    background-color: #ffe6f2;      /* rosa pastel */
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+/* Título grande y bonito */
+h1 {
+    color: #d147a3;                 /* rosa más fuerte */
+    margin-top: 20px;
+}
+
+/* Subtítulos */
+h2 {
+    color: #b30086;
+}
+
+/* Imagen redonda */
+img {
+    border-radius: 50%;
+    width: 200px;
+    border: 3px solid #ffb3d9;
+    margin-top: 10px;
+}
+
+/* Cuadritos blancos para separar contenido */
+section {
+    background: white;
+    margin: 20px auto;
+    width: 80%;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 0 10px #ffb3d9;
+}
+ul {
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;   /* mantiene la lista compacta y linda */
+}
